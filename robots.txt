@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://minyoad.github.io/sitemap.xml 

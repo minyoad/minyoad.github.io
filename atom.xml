@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://minyoad.github.io/atom.xml" rel="self"/>
+  <link href="http://minyoad.github.io/"/>
+  <updated>2014-11-28T13:01:19+08:00</updated>
+  <id>http://minyoad.github.io/</id>
+  <author>
+    <name><![CDATA[mingyang.wu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post for Test]]></title>
+    <link href="http://minyoad.github.io/blog/2014/11/28/first-post-for-test/"/>
+    <updated>2014-11-28T12:56:51+08:00</updated>
+    <id>http://minyoad.github.io/blog/2014/11/28/first-post-for-test</id>
+    <content type="html"><![CDATA[<h3>first post for test</h3>
+
+<h3>绘制表格</h3>
+
+<table>
+<thead>
+<tr>
+<th> 项目        </th>
+<th style="text-align:right;"> 价格   </th>
+<th style="text-align:center;">  数量  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> 计算机     </td>
+<td style="text-align:right;"> $1600 </td>
+<td style="text-align:center;">   5     </td>
+</tr>
+<tr>
+<td> 手机        </td>
+<td style="text-align:right;">   $12   </td>
+<td style="text-align:center;">   12   </td>
+</tr>
+<tr>
+<td> 管线        </td>
+<td style="text-align:right;">    $1    </td>
+<td style="text-align:center;">  234  </td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
+  
+</feed>
